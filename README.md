@@ -7,3 +7,5 @@
  [Factorial of a number](https://github.com/TechCodeDev/Snippets/blob/main/basic/Untitled7.ipynb)
  
  [Trailing Zero In Factorial](https://github.com/TechCodeDev/Snippets/blob/main/basic/Trailing_Zero_In_Factorial.ipynb)
+ 
+ [Greatest_Common_Divisor](https://github.com/TechCodeDev/Snippets/blob/main/basic/Greatest_Common_Divisor.ipynb)
