@@ -5,3 +5,5 @@
  [Palindome Numbers](https://github.com/TechCodeDev/Snippets/blob/main/basic/Palindrome.ipynb)
  
  [Factorial of a number](https://github.com/TechCodeDev/Snippets/blob/main/basic/Untitled7.ipynb)
+ 
+ [Trailing Zero In Factorial](https://github.com/TechCodeDev/Snippets/blob/main/basic/Trailing_Zero_In_Factorial.ipynb)
