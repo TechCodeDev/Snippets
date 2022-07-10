@@ -10,4 +10,4 @@
  
  [Greatest_Common_Divisor](https://github.com/TechCodeDev/Snippets/blob/main/basic/Greatest_Common_Divisor.ipynb)
 
-[Lcm_of_two_Number](https://github.com/TechCodeDev/Snippets/blob/main/basic/lcm.ipynb)
+[Lcm_of_two_Number](https://github.com/TechCodeDev/Snippets/blob/main/basic/Lcm.ipynb)
